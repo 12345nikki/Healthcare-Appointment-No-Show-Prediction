@@ -9,4 +9,4 @@ Predict whether patients will miss their healthcare appointments and identify fa
  Access the Jupyter notebook by clicking on "ELProject1" or click  http://localhost:8888/notebooks/Desktop/nikki/ELProject1.ipynb
  
  Original dataset can be downloaded here  http://localhost:8888/edit/Desktop/nikki/appointments.csv
-   Project report file:///C:/Users/nikshitha.s/Desktop/Project%20report-Healthcare%20Appointment%20No-Show%20Prediction.pdf    
+  
